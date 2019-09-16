@@ -1,75 +1,18 @@
 # Python Path
-```
-...
-```
 
-## Table of Contents
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+> {Esse repositório tem o intuito de compartilhar apresentações, exemplos e caminhos de estudo, tanto para colaboradores da Pitang como para comunidade de Python. Nosso objetivo é criar uma fonte de estudo que seja relevante e que auxilie na construção do aprendizado sobre a linguagem em suas diversas vertentes de uso.}
 
+## Visão
 
-## About The Project
-```
-...
-```
+Elevar para padrão internacional a de engenharia de software de todos os projetos que utilizam Python da Pitang. Elevando o nível de conhecimento dos individuos, com estudos coletivos e compartilhando conhecimento através de nossos colaboradores.
 
-### Built With
-```
-...
-```
+## Material de Apoio ao Grupo de Estudos
 
-## Getting Started
+- [Trilha de Estudos](material/roadmap.md)
+- [Livros](material/books.md)
+- [Cursos](material/courses.md)
+- [Eventos](material/events.md)
+- [Sites](material/sites.md)
+- [Apresentações](material/weekly)
 
-```
-...
-```
-
-### Prerequisites
-```
-...
-```
-
-### Installation
-```
-...
-```
-
-## Usage
-```
-...
-```
-
-## Roadmap
-- [x] Item 1
-- [x] Item 2
-- [ ] Item 3
-- [ ] Item 4
-
-## Contributing
-```
-...
-```
-
-## License
-This is issued under MIT license, a permissive free license, which means you can modify it as you please, and incorporate it into your own commercial or non-commercial software.
-
-**Free Software, Hell Yeah!**
-
-## Contact
-```
-...
-```
-
-## Acknowledgements
-```
-...
-```
+![](images/ptglabs.png)
